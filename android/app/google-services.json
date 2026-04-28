@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892300737050",
+    "project_id": "laptrinhmobile-15bd9",
+    "storage_bucket": "laptrinhmobile-15bd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892300737050:android:b1c546acc4cb4036a1efa3",
+        "android_client_info": {
+          "package_name": "com.example.demo_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9tZXAks9p1ViSNnhHWhwNr4ygK54-fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892300737050:android:52084f380e87d4fba1efa3",
+        "android_client_info": {
+          "package_name": "com.example.testflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9tZXAks9p1ViSNnhHWhwNr4ygK54-fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
